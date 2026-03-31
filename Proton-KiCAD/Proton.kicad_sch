@@ -6889,6 +6889,17 @@
 		)
 		(uuid "18bda492-c1fa-4c46-b937-f4cb44d44843")
 	)
+	(text "Peripherals (Link)"
+		(exclude_from_sim no)
+		(at 194.818 23.876 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "1b2146ff-bd09-4c33-bd88-3fd32e159a7e")
+	)
 	(text "IOs"
 		(exclude_from_sim no)
 		(at 359.156 120.396 0)
@@ -6943,17 +6954,6 @@
 			(justify left bottom)
 		)
 		(uuid "80364bd5-2b0e-4e71-91be-51a88126fbe6")
-	)
-	(text "Make sure R7 and R8 are close to RP2350\n"
-		(exclude_from_sim no)
-		(at 250.19 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9eed8653-63d4-4ee0-ae0c-c95a87e5c988")
 	)
 	(text "Debugger Sheet (Link)"
 		(exclude_from_sim no)
@@ -7646,16 +7646,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 115.57) (xy 238.76 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13c46a88-0ac8-4200-a85c-dcdd0f621632")
-	)
-	(wire
-		(pts
 			(xy 49.53 54.61) (xy 49.53 69.85)
 		)
 		(stroke
@@ -8064,6 +8054,16 @@
 		)
 		(uuid "42c0f83f-068a-45b9-b1cf-aacc8e2e4619")
 	)
+	(polyline
+		(pts
+			(xy 179.07 50.8) (xy 241.3 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4394b132-c1c7-4f2a-ba23-c9f15686e767")
+	)
 	(wire
 		(pts
 			(xy 172.72 74.93) (xy 172.72 95.25)
@@ -8273,6 +8273,16 @@
 			(type default)
 		)
 		(uuid "506253ec-dda8-425b-92c9-ddd2289e6baa")
+	)
+	(wire
+		(pts
+			(xy 80.01 67.31) (xy 77.47 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51173ba8-6d2c-43ef-8af4-8dcbdf34292e")
 	)
 	(polyline
 		(pts
@@ -8513,16 +8523,6 @@
 			(type default)
 		)
 		(uuid "62eabe67-e99e-4b76-8869-210ab5d706af")
-	)
-	(wire
-		(pts
-			(xy 251.46 118.11) (xy 265.43 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6457cb3d-edb6-469c-bfc7-39a9a4963dd6")
 	)
 	(wire
 		(pts
@@ -9014,16 +9014,6 @@
 		)
 		(uuid "8c031bd6-5c7c-4166-90ce-6c2af603f9bc")
 	)
-	(wire
-		(pts
-			(xy 238.76 109.22) (xy 238.76 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cbb6686-a45d-40f4-b9a5-3940ded63182")
-	)
 	(polyline
 		(pts
 			(xy 321.31 212.09) (xy 402.59 212.09)
@@ -9436,16 +9426,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 109.22) (xy 243.84 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad8bc312-d1d6-4178-b218-864f5bc9d07c")
-	)
-	(wire
-		(pts
 			(xy 232.41 237.49) (xy 247.65 237.49)
 		)
 		(stroke
@@ -9626,13 +9606,13 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 109.22) (xy 265.43 109.22)
+			(xy 80.01 69.85) (xy 77.47 69.85)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ba5254b3-c839-4f26-8ed4-fbf5f3cc9fa0")
+		(uuid "b8faaa93-8292-4c5f-91ef-3fdcac72caec")
 	)
 	(wire
 		(pts
@@ -10066,16 +10046,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 69.85) (xy 86.36 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d73ca947-8cf0-4139-afb1-eaf8fa8c8aca")
-	)
-	(wire
-		(pts
 			(xy 351.79 138.43) (xy 339.09 138.43)
 		)
 		(stroke
@@ -10326,16 +10296,6 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 118.11) (xy 243.84 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8429644-83fa-4591-8ab6-4c992aa59873")
-	)
-	(wire
-		(pts
 			(xy 232.41 86.36) (xy 220.98 86.36)
 		)
 		(stroke
@@ -10436,16 +10396,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 67.31) (xy 86.36 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed3a6dfb-f224-40bc-82b4-0d09acde61c7")
-	)
-	(wire
-		(pts
 			(xy 232.41 240.03) (xy 247.65 240.03)
 		)
 		(stroke
@@ -10536,6 +10486,16 @@
 	)
 	(polyline
 		(pts
+			(xy 241.3 50.8) (xy 241.3 16.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f48c38cc-8b73-4c9b-8338-cab04a019189")
+	)
+	(polyline
+		(pts
 			(xy 402.59 63.5) (xy 402.59 16.51)
 		)
 		(stroke
@@ -10573,6 +10533,16 @@
 			(type default)
 		)
 		(uuid "f76420ff-24c1-4dd6-a670-9340e0a51dc9")
+	)
+	(polyline
+		(pts
+			(xy 179.07 16.51) (xy 241.3 16.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8b0220f-e84b-435e-8218-52f09bd7a735")
 	)
 	(wire
 		(pts
@@ -10713,16 +10683,6 @@
 			(justify left bottom)
 		)
 		(uuid "012e89b8-7b73-4264-aa32-ecaeaa1251e0")
-	)
-	(label "USB_D+"
-		(at 265.43 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "02ff75c3-c38e-47e2-aee2-89d7eacbd925")
 	)
 	(label "GPIO33"
 		(at 247.65 209.55 180)
@@ -11024,16 +10984,6 @@
 		)
 		(uuid "3df40c8d-3c35-463c-a7d2-b844046db375")
 	)
-	(label "USB_D-"
-		(at 86.36 67.31 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "40b1aee6-d8df-4dbf-9eeb-5fbbf7113a99")
-	)
 	(label "GPIO24"
 		(at 351.79 196.85 180)
 		(effects
@@ -11103,16 +11053,6 @@
 			(justify right bottom)
 		)
 		(uuid "4ad56fff-2e40-4b11-8152-06404df945ad")
-	)
-	(label "USB_D+"
-		(at 86.36 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4c9507e3-8766-4dfe-ab34-e023343af6d3")
 	)
 	(label "GPIO19"
 		(at 351.79 184.15 180)
@@ -11523,16 +11463,6 @@
 			(justify right bottom)
 		)
 		(uuid "978ee7f4-8219-46d2-a254-13a957da1934")
-	)
-	(label "USB_D-"
-		(at 265.43 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9a225fb4-0bb6-4321-bdcc-17e5cfa7f105")
 	)
 	(label "GPIO10"
 		(at 247.65 151.13 180)
@@ -12095,6 +12025,28 @@
 				(justify left)
 			)
 		)
+	)
+	(hierarchical_label "USB_D+"
+		(shape input)
+		(at 80.01 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4858c244-b04c-4137-86ab-ba1a47bd9ca6")
+	)
+	(hierarchical_label "USB_D-"
+		(shape input)
+		(at 80.01 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a49b6df7-fd55-4488-a805-b4d2e39fe7fc")
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -12816,164 +12768,6 @@
 			(project "Proton"
 				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
 					(reference "#PWR0105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 247.65 109.22 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005ede0881")
-		(property "Reference" "R9"
-			(at 247.65 103.9622 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27"
-			(at 247.65 106.2736 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 247.65 107.442 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 247.65 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ec184c23-fa03-4e24-a026-f741cd14e9f0")
-		)
-		(pin "2"
-			(uuid "0a928a63-0657-4304-a0ed-0a0b5e75e824")
-		)
-		(instances
-			(project "Proton"
-				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 247.65 118.11 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005ede1624")
-		(property "Reference" "R10"
-			(at 247.65 112.8522 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "27"
-			(at 247.65 115.1636 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 247.65 116.332 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 247.65 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0da02316-6649-49b9-8a88-249b83464f20")
-		)
-		(pin "2"
-			(uuid "c5c4c1d0-4590-403b-9644-371833c22b25")
-		)
-		(instances
-			(project "Proton"
-				(path "/94683f5c-9cd9-448e-be96-9792537b5cb8"
-					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -21354,8 +21148,8 @@
 		)
 	)
 	(sheet
-		(at 212.09 30.48)
-		(size 36.83 17.78)
+		(at 191.77 31.75)
+		(size 38.1 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -21370,7 +21164,7 @@
 		)
 		(uuid "40f9a763-3f9c-470e-8de1-1ac69d936f34")
 		(property "Sheetname" "Peripherals"
-			(at 212.09 29.7684 0)
+			(at 191.77 31.0384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21381,7 +21175,7 @@
 			)
 		)
 		(property "Sheetfile" "Peripherals.kicad_sch"
-			(at 212.09 48.8446 0)
+			(at 191.77 45.0346 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
