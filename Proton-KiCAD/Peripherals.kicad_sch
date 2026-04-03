@@ -5079,7 +5079,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5716,7 +5716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 243.84 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6005,7 +6005,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "31231910-4615-45d9-a095-c295a64003b1")
 		(property "Reference" "J8"
 			(at 153.67 57.1499 0)
@@ -6029,9 +6028,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 142.875 58.42 0)
-			(hide yes)
+		(property "Footprint" "Connector_Video:HDMI_A_Molex_208658-1001_Horizontal"
+			(at 136.906 16.256 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6479,7 +6477,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 243.84 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -6936,7 +6934,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 245.11 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7554,7 +7552,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "517f7e48-a9af-4d0b-a392-5e3d9abaa7c7")
 		(property "Reference" "J5"
 			(at 141.605 119.38 0)
@@ -7576,9 +7573,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 140.97 139.7 0)
-			(hide yes)
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical"
+			(at 135.636 116.078 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7932,7 +7928,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 243.84 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8964,7 +8960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 191.77 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -9593,7 +9589,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 191.77 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -11729,7 +11725,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 191.77 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -11809,7 +11805,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 243.84 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -12910,7 +12906,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH-12mm"
 			(at 193.04 55.88 0)
 			(hide yes)
 			(show_name no)
